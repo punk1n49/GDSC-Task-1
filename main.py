@@ -1,4 +1,4 @@
-from quesiton_data import data
+from question_data import data
 from quizbrain import QuizBrain
 from question_blueprint import Question
 
